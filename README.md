@@ -1,4 +1,4 @@
-#🤔 Responde las siguientes preguntas:
+# 🤔 Responde las siguientes preguntas:
 ¿Cuáles son las principales clases de la API de Google Maps para Android y qué función cumple cada una?
 
 -GoogleMap: Es la clase que se encarga de representar el mapa.
@@ -23,7 +23,7 @@
 -Usando "Mi Ubicación".
 -Usando "FusedLocationProviderClient" para obtener las coordenadas exactas del usuario.
 
-#✍️ Reflexión personal del tema
+# ✍️ Reflexión personal del tema
 
 El uso de mapas en aplicaciones móviles representa una gran ventaja para ciertas apps y resulta imprescindible y fundamental para otras,
 la cantidad de servicios que se puden ofrecer con este tipo de tecnologías son numerosos. Es por esto que el aprender a usarlos en
